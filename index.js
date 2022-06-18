@@ -1,0 +1,1 @@
+console.js('this is a javascript file');
